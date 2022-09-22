@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickB2754
 - 👀 I’m interested in programming in several languages.
-- 🌱 I’m currently learning python/script programming.
+- 🌱 I’m currently learning advanced C++/OOP programming.
 - 💞️ I’m looking to collaborate on anything where I am able to learn something new. 
 - 📫 How to reach me ...
 
